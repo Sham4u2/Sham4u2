@@ -54,9 +54,9 @@
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br>
 <div align="center">
-  <img height="100" src="https://github-readme-streak-stats.herokuapp.com?user=Sham4u2&theme=react&hide_border=false" alt="GitHub Streak" />
+  <img height="220" src="https://github-readme-streak-stats.herokuapp.com?user=Sham4u2&theme=react&hide_border=false" alt="GitHub Streak" />
 
-  <img height="100" src="https://github-readme-stats.vercel.app/api?username=Sham4u2&show_icons=true&theme=react&hide_border=false&count_private=true" alt="GitHub Stats" />
+  <img height="220" src="https://github-readme-stats.vercel.app/api?username=Sham4u2&show_icons=true&theme=react&hide_border=false&count_private=true" alt="GitHub Stats" />
   <br/><br/>
 
   <img width="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sham4u2&layout=compact&langs_count=8&theme=react&hide_border=false" alt="Top Languages" />
