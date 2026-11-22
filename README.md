@@ -1,72 +1,62 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Sham4u2.Sham4u2" />
+# Hi, I'm Shaik Shamiulla 👋
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shamiulla+Shaik!;&color=8A2BE2" />
-</h1>
+**Aspiring Data Engineer | Data Science Intern | Python • Excel • Data Cleaning & EDA**
 
-<h3 align="center">A passionate Data Science Learner from INDIA 🇮🇳</h3>
+I'm a B.Tech ECE graduate from Chaitanya Bharathi Institute of Technology, Proddatur, aiming for my first Data / AI role, with a focus on Data Engineering.
 
-<br/>
+I'm open to fresher **Data Analyst, Data Engineer and Data Scientist** roles across India and remote.
 
-<div align="center">
- 
- 🔭 I’m currently working on **Car Price Prediction Model**
- 
- 🌱 I’m currently learning **Data Science: Pandas, Sklearn, Machine Learning Models, Python**
+🌐 Portfolio: https://sham4u2.github.io/
+💼 LinkedIn: https://www.linkedin.com/in/shamiulla4u
+📧 Email: shamiulla388@gmail.com
 
- 💬 Ask me about **Pandas, Numpy, Sklearn...** or [anything here](https://github.com/Sham4u2/Shamiulla-Shaik/issues)
+---
 
- ⚡ Fun fact: **Every time my model gives 99% accuracy, I celebrate like it's my birthday 🎉🎂**
-</div>
+## About
 
-<br/>
+During my Data Science internship at Aivarient, I worked with real datasets in Excel and Python — cleaning data, exploring it, building charts and reports, and training machine learning models.
 
-<div align="center">
-  <a href="mailto:shamiulla388@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=purple" />
-  </a>
-  <a href="https://linkedin.com/in/shamiulla4u" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://g.dev/shamiulla4u" target="_blank">
-    <img src="https://img.shields.io/badge/Dev_Profile-333333?style=for-the-badge&logo=google&logoColor=purple" />
-  </a>
-</div>
+I currently train students in Python, Machine Learning and Generative AI as a Future Skills Expert, mentoring 15–20 students on data science and Python projects.
 
-<hr/>
+---
 
-<h2 align="center">📊 Data Science Stack & Development Tools</h2>
-<br/>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,vscode,github,git,figma,flask,mysql" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white" />
-</div>
+## Experience
 
-<hr/>
+**Data Science Intern — Aivarient (2025)**
+- Liver Disease Prediction (classification) and Car Price Prediction (regression)
+- Data preprocessing, feature engineering, model tuning and evaluation
+- Built charts, reports and visualisations from real datasets
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
-<br>
-<div align="center">
-  <img height="111" src="https://github-readme-streak-stats-eight.vercel.app?user=Sham4u2&theme=react&hide_border=false" alt="GitHub Streak" />
+**Future Skills Expert — Government of Andhra Pradesh (2024)**
+- Taught digital literacy and future skills in 3 government schools
+- Ran workshops and received recognition signed by an IAS officer
+- Mentoring 15–20 students on data science and Python projects
 
+---
 
-  <img height="111" src="https://github-readme-stats.vercel.app/api?username=Sham4u2&show_icons=true&theme=react&hide_border=false&count_private=true" alt="GitHub Stats" />
-  <br/><br/>
+## Projects
 
-  <img width="222" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sham4u2&layout=compact&langs_count=8&theme=react&hide_border=false" alt="Top Languages" />
-</div>
+- [Car Price Prediction](https://github.com/Sham4u2/Car-Price-Prediction) — Pandas, Scikit-learn and XGBoost
+- Liver Disease Prediction — classification on real health data
+- Traffic Sign Classification — Python
+- Recommendation System
+- IoT Accident Prevention & Sleep Detection — GPS and GSM
+- Water Safety Analysis
 
-<br/><br/>
+---
 
-<hr/>
+## Skills
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=28&center=true&vCenter=true&width=550&height=60&duration=4000&color=8A2BE2&lines=Thanks+for+visiting!+👋;Shoot+me+a+message+on+LinkedIn!;I'm+always+down+to+collab+🙂" />
-</h1>
+**Data:** Data Analysis (Pandas, NumPy) · EDA · Data Cleaning · Data Preprocessing · Data Modeling · Statistical Data Analysis · Machine Learning · XGBoost · Model Training & Evaluation
+
+**Tools:** Python · Excel · Scikit-learn · Pandas · NumPy · Matplotlib · Seaborn · Jupyter Notebook · Microsoft PowerPoint · Deployment · Project Management
+
+**Also:** CCNA · Networking · MATLAB · Communication · Leadership · Teamwork · Teaching · Problem Solving
+
+---
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sham4u2&show_icons=true&theme=react&hide_border=false&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Sham4u2&theme=react&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sham4u2&layout=compact&langs_count=8&theme=react&hide_border=false)
