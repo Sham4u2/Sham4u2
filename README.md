@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sham4u2.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://shamiulla.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/shamiulla4u" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:shamiulla388@gmail.com"><img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
